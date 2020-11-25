@@ -10,9 +10,9 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://egrguric.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /demo-cb-2
+baseurl: /demo
 # location of code, the full url to your github repository
-source-code: https://github.com/egrguric/demo-cb-2
+source-code: https://github.com/egrguric/demo
 
 ##########
 # SITE SETTINGS
